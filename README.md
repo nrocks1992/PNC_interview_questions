@@ -18,6 +18,7 @@ can not be null/empty
 ## 4. Find first unique character in a string
 “automation” -> “u”  
 “mama” -> null  
+
 ## 5. Validate Password Rules
 Min 8 characters, max 15  
 Contains at least one uppercase letter  
