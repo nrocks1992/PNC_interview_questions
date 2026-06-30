@@ -1,5 +1,7 @@
 # PNC Interview Questions
 Java exercises for role at PNC
+Compile with javac Main.java
+Run with java Main
 
 ## 1. Find Duplicate Values in a List 
 [1, 2, 3, 2, 4, 5, 1]  ->  [1, 2]  
